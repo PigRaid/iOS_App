@@ -35,7 +35,7 @@
     <key>PayloadOrganization</key>
     <string>PigRaid</string>
     <key>PayloadRemovalDisallowed</key>
-    <true/>
+    <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
