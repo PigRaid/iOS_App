@@ -16,6 +16,8 @@
 
       <link rel="apple-touch-icon" sizes="144x144" href="http://i.imgur.com/7iFj84S.png">
 
+      <script src="http://www.prios.6te.net/standalone.js"></script>
+
     </head>
 
     <body>
