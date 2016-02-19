@@ -6,4 +6,4 @@ Custom Developed iOS App For PigRaid!
 - It will open Settings and ask you to install our app profile, just click install.
 - BOOM! Enjoy our app. :)
 
-#Developed by [@ItzJavaCraft](https://GitHub.com/itzjavacraft) and [@applqpak](https://GitHub.com/itzjavacraft)
+#Developed by [@ItzJavaCraft](https://GitHub.com/itzjavacraft) and [@applqpak](https://GitHub.com/applqpak)
