@@ -22,7 +22,7 @@
 
     <body>
 
-      <strong><em>PigRaid iOS App Is Still W.I.P! This App Is Developed By @ItzJavaCraft And @applqpak</em></strong>
+      <strong><em>Grimcraft  iOS App Is Still W.I.P! This App Is Developed By Kieran Minec</em></strong>
 
     </body>
 
