@@ -19,7 +19,7 @@
 <key>PayloadIdentifier</key>
 <string>grimcraft.com.apple.webClip.managed</string>
 <key>PayloadType</key>
-<string>com.apple.webClip.managed</string>
+<string>grimcraft.com.apple.webClip.managed</string>
 <key>PayloadUUID</key>
 <string>3e7fda0fdd23f9a70810aa16506322ab</string>
 <key>PayloadVersion</key>
