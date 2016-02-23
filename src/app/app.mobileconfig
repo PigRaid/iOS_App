@@ -11,15 +11,15 @@
 <key>IsRemovable</key>
 <true/>
 <key>Label</key>
-<string>PigRaid</string>
+<string>Grimcraft</string>
 <key>PayloadDescription</key>
-<string>Our Official iOS App! Developed By @ItzJavaCraft And @applqpak. Our Official Site: www.pigraid.com</string>
+<string>Our Official iOS App! Developed By @Kieran Minec . Our Official Site: Still under development</string>
 <key>PayloadDisplayName</key>
 <string>Web Clip</string>
 <key>PayloadIdentifier</key>
-<string>pigraid.com.apple.webClip.managed</string>
+<string>grimcraft.com.apple.webClip.managed</string>
 <key>PayloadType</key>
-<string>com.apple.webClip.managed</string>
+<string>grimcraft.com.apple.webClip.managed</string>
 <key>PayloadUUID</key>
 <string>3e7fda0fdd23f9a70810aa16506322ab</string>
 <key>PayloadVersion</key>
@@ -31,13 +31,13 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Our Official iOS App! Developed By @ItzJavaCraft And @applqpak. Our Official Site: www.pigraid.com</string>
+<string>Our Official iOS App! Developed By @ItzJavaCraft And @applqpak. Our Official Site: under development</string>
 <key>PayloadDisplayName</key>
-<string>PigRaid</string>
+<string>Grimcraft</string>
 <key>PayloadIdentifier</key>
-<string>pigraid.com.apple.webClip.managed</string>
+<string>grimcraft.com.apple.webClip.managed</string>
 <key>PayloadOrganization</key>
-<string>PigRaid</string>
+<string>Grimcraft</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadType</key>
